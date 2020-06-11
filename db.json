@@ -9,6 +9,20 @@
                 "description": "Alpha Team",
                 "email": "",
                 "webUrl": "https://teams.microsoft.com/l/channel/19%3aacf09f634817411da81ad1ba770afb5d%40thread.tacv2/General?groupId=db49f71a-5416-4e8c-9011-576018567248&tenantId=d984cb70-eb0b-47bf-b16f-0f28c29dea94"
+            },
+            {
+                "id": "20:acf09f634817411da81ad1ba770afb5e@thread.tacv3",
+                "displayName": "Testing channel",
+                "description": "Alpha Team",
+                "email": "",
+                "webUrl": "https://teams.microsoft.com/l/channel/19%3aacf09f634817411da81ad1ba770afb5d%40thread.tacv2/General?groupId=db49f71a-5416-4e8c-9011-576018567248&tenantId=d984cb70-eb0b-47bf-b16f-0f28c29dea94"
+            },
+            {
+                "id": "21:acf09f634817411da81ad1ba770afb5e@thread.tacv4",
+                "displayName": "Beta channel",
+                "description": "Alpha Team",
+                "email": "",
+                "webUrl": "https://teams.microsoft.com/l/channel/19%3aacf09f634817411da81ad1ba770afb5d%40thread.tacv2/General?groupId=db49f71a-5416-4e8c-9011-576018567248&tenantId=d984cb70-eb0b-47bf-b16f-0f28c29dea94"
             }
         ]
     },
@@ -17,11 +31,106 @@
         "@odata.count": 1,
         "value": [
             {
-                "id": "19:9c9199b7ef3849908f9d544c40721f1c@thread.tacv2",
+                "id": "59:9c9199b7ef3849908f9d544c40721f1c@thread.tacv2",
                 "displayName": "General",
                 "description": "Test 1",
                 "email": "",
                 "webUrl": "https://teams.microsoft.com/l/channel/19%3a9c9199b7ef3849908f9d544c40721f1c%40thread.tacv2/General?groupId=8385a4d6-1db2-4b50-99dd-4a86c1e3c461&tenantId=d984cb70-eb0b-47bf-b16f-0f28c29dea94"
+            },
+            {
+                "id": "50:acf09f634817411da81ad1ba770afb5e@thread.tacv3",
+                "displayName": "Testing channel",
+                "description": "Alpha Team",
+                "email": "",
+                "webUrl": "https://teams.microsoft.com/l/channel/19%3aacf09f634817411da81ad1ba770afb5d%40thread.tacv2/General?groupId=db49f71a-5416-4e8c-9011-576018567248&tenantId=d984cb70-eb0b-47bf-b16f-0f28c29dea94"
+            },
+            {
+                "id": "51:acf09f634817411da81ad1ba770afb5e@thread.tacv4",
+                "displayName": "Beta channel",
+                "description": "Alpha Team",
+                "email": "",
+                "webUrl": "https://teams.microsoft.com/l/channel/19%3aacf09f634817411da81ad1ba770afb5d%40thread.tacv2/General?groupId=db49f71a-5416-4e8c-9011-576018567248&tenantId=d984cb70-eb0b-47bf-b16f-0f28c29dea94"
+            }
+        ]
+    },
+    "db49f71a-5416-4e8c-9011-576018567245": {
+        "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#teams('db49f71a-5416-4e8c-9011-576018567245')/channels",
+        "@odata.count": 1,
+        "value": [
+            {
+                "id": "39:9c9199b7ef3849908f9d544c40721f1c@thread.tacv2",
+                "displayName": "General Beta",
+                "description": "Test 1",
+                "email": "",
+                "webUrl": "https://teams.microsoft.com/l/channel/19%3a9c9199b7ef3849908f9d544c40721f1c%40thread.tacv2/General?groupId=8385a4d6-1db2-4b50-99dd-4a86c1e3c461&tenantId=d984cb70-eb0b-47bf-b16f-0f28c29dea94"
+            },
+            {
+                "id": "30:acf09f634817411da81ad1ba770afb5e@thread.tacv3",
+                "displayName": "Testing Beta channel",
+                "description": "Beta Team",
+                "email": "",
+                "webUrl": "https://teams.microsoft.com/l/channel/19%3aacf09f634817411da81ad1ba770afb5d%40thread.tacv2/General?groupId=db49f71a-5416-4e8c-9011-576018567248&tenantId=d984cb70-eb0b-47bf-b16f-0f28c29dea94"
+            },
+            {
+                "id": "31:acf09f634817411da81ad1ba770afb5e@thread.tacv4",
+                "displayName": "Beta channel",
+                "description": "Beta Team",
+                "email": "",
+                "webUrl": "https://teams.microsoft.com/l/channel/19%3aacf09f634817411da81ad1ba770afb5d%40thread.tacv2/General?groupId=db49f71a-5416-4e8c-9011-576018567248&tenantId=d984cb70-eb0b-47bf-b16f-0f28c29dea94"
+            }
+        ]
+    },
+    "db49f71a-5416-4e8c-9011-576018567246": {
+        "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#teams('db49f71a-5416-4e8c-9011-576018567246')/channels",
+        "@odata.count": 1,
+        "value": [
+            {
+                "id": "49:9c9199b7ef3849908f9d544c40721f1c@thread.tacv9",
+                "displayName": "General Charlie",
+                "description": "Test 1",
+                "email": "",
+                "webUrl": "https://teams.microsoft.com/l/channel/19%3a9c9199b7ef3849908f9d544c40721f1c%40thread.tacv2/General?groupId=8385a4d6-1db2-4b50-99dd-4a86c1e3c461&tenantId=d984cb70-eb0b-47bf-b16f-0f28c29dea94"
+            },
+            {
+                "id": "41:acf09f634817411da81ad1ba770afb5e@thread.tacv1",
+                "displayName": "Testing Charlie channel",
+                "description": "Alpha Team",
+                "email": "",
+                "webUrl": "https://teams.microsoft.com/l/channel/19%3aacf09f634817411da81ad1ba770afb5d%40thread.tacv2/General?groupId=db49f71a-5416-4e8c-9011-576018567248&tenantId=d984cb70-eb0b-47bf-b16f-0f28c29dea94"
+            },
+            {
+                "id": "41:acf09f634817411da81ad1ba770afb5e@thread.tacv4",
+                "displayName": "Beta Charlie channel",
+                "description": "Alpha Team",
+                "email": "",
+                "webUrl": "https://teams.microsoft.com/l/channel/19%3aacf09f634817411da81ad1ba770afb5d%40thread.tacv2/General?groupId=db49f71a-5416-4e8c-9011-576018567248&tenantId=d984cb70-eb0b-47bf-b16f-0f28c29dea94"
+            }
+        ]
+    },    
+    "db49f71a-5416-4e8c-9011-576018567244": {
+        "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#teams('db49f71a-5416-4e8c-9011-576018567244')/channels",
+        "@odata.count": 1,
+        "value": [
+            {
+                "id": "19:9c9199b7ef3849908f9d544c40721f1c@thread.tacv2",
+                "displayName": "General X",
+                "description": "Test 1",
+                "email": "",
+                "webUrl": "https://teams.microsoft.com/l/channel/19%3a9c9199b7ef3849908f9d544c40721f1c%40thread.tacv2/General?groupId=8385a4d6-1db2-4b50-99dd-4a86c1e3c461&tenantId=d984cb70-eb0b-47bf-b16f-0f28c29dea94"
+            },
+            {
+                "id": "20:acf09f634817411da81ad1ba770afb5e@thread.tacv3",
+                "displayName": "Testing X channel",
+                "description": "Alpha Team",
+                "email": "",
+                "webUrl": "https://teams.microsoft.com/l/channel/19%3aacf09f634817411da81ad1ba770afb5d%40thread.tacv2/General?groupId=db49f71a-5416-4e8c-9011-576018567248&tenantId=d984cb70-eb0b-47bf-b16f-0f28c29dea94"
+            },
+            {
+                "id": "21:acf09f634817411da81ad1ba770afb5e@thread.tacv4",
+                "displayName": "Beta X channel",
+                "description": "Alpha Team",
+                "email": "",
+                "webUrl": "https://teams.microsoft.com/l/channel/19%3aacf09f634817411da81ad1ba770afb5d%40thread.tacv2/General?groupId=db49f71a-5416-4e8c-9011-576018567248&tenantId=d984cb70-eb0b-47bf-b16f-0f28c29dea94"
             }
         ]
     },
@@ -49,6 +158,54 @@
                 "id": "db49f71a-5416-4e8c-9011-576018567248",
                 "displayName": "Team 1",
                 "description": "Team 1 description",
+                "internalId": null,
+                "classification": null,
+                "specialization": null,
+                "visibility": null,
+                "webUrl": null,
+                "isArchived": false,
+                "memberSettings": null,
+                "guestSettings": null,
+                "messagingSettings": null,
+                "funSettings": null,
+                "discoverySettings": null
+            },
+            {
+                "id": "db49f71a-5416-4e8c-9011-576018567246",
+                "displayName": "Charlie Team",
+                "description": "Charlie Team description",
+                "internalId": null,
+                "classification": null,
+                "specialization": null,
+                "visibility": null,
+                "webUrl": null,
+                "isArchived": false,
+                "memberSettings": null,
+                "guestSettings": null,
+                "messagingSettings": null,
+                "funSettings": null,
+                "discoverySettings": null
+            },
+            {
+                "id": "db49f71a-5416-4e8c-9011-576018567245",
+                "displayName": "Beta Team",
+                "description": "Beta Team description",
+                "internalId": null,
+                "classification": null,
+                "specialization": null,
+                "visibility": null,
+                "webUrl": null,
+                "isArchived": false,
+                "memberSettings": null,
+                "guestSettings": null,
+                "messagingSettings": null,
+                "funSettings": null,
+                "discoverySettings": null
+            },
+            {
+                "id": "db49f71a-5416-4e8c-9011-576018567244",
+                "displayName": "X Team",
+                "description": "X Team description",
                 "internalId": null,
                 "classification": null,
                 "specialization": null,
