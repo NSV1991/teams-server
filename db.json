@@ -121,81 +121,31 @@
                 "id": "db49f71a-5416-4e8c-9011-5760185649868",
                 "displayName": "Alpha Team",
                 "description": "Alpha Team  description",
-                "internalId": null,
-                "classification": null,
-                "specialization": null,
-                "visibility": null,
-                "webUrl": null,
-                "isArchived": false,
-                "memberSettings": null,
-                "guestSettings": null,
-                "messagingSettings": null,
-                "funSettings": null,
-                "discoverySettings": null
+                "internalId": null
             },
             {
                 "id": "db49f71a-5416-4e8c-9011-576018567248",
                 "displayName": "Team 1",
                 "description": "Team 1 description",
-                "internalId": null,
-                "classification": null,
-                "specialization": null,
-                "visibility": null,
-                "webUrl": null,
-                "isArchived": false,
-                "memberSettings": null,
-                "guestSettings": null,
-                "messagingSettings": null,
-                "funSettings": null,
-                "discoverySettings": null
+                "internalId": null
             },
             {
                 "id": "db49f71a-5416-4e8c-9011-576018567246",
                 "displayName": "Charlie Team",
                 "description": "Charlie Team description",
-                "internalId": null,
-                "classification": null,
-                "specialization": null,
-                "visibility": null,
-                "webUrl": null,
-                "isArchived": false,
-                "memberSettings": null,
-                "guestSettings": null,
-                "messagingSettings": null,
-                "funSettings": null,
-                "discoverySettings": null
+                "internalId": null
             },
             {
                 "id": "db49f71a-5416-4e8c-9011-576018567245",
                 "displayName": "Beta Team",
                 "description": "Beta Team description",
-                "internalId": null,
-                "classification": null,
-                "specialization": null,
-                "visibility": null,
-                "webUrl": null,
-                "isArchived": false,
-                "memberSettings": null,
-                "guestSettings": null,
-                "messagingSettings": null,
-                "funSettings": null,
-                "discoverySettings": null
+                "internalId": null
             },
             {
                 "id": "db49f71a-5416-4e8c-9011-576018567244",
                 "displayName": "X Team",
                 "description": "X Team description",
-                "internalId": null,
-                "classification": null,
-                "specialization": null,
-                "visibility": null,
-                "webUrl": null,
-                "isArchived": false,
-                "memberSettings": null,
-                "guestSettings": null,
-                "messagingSettings": null,
-                "funSettings": null,
-                "discoverySettings": null
+                "internalId": null
             }
         ]
     }
