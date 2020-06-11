@@ -1,5 +1,5 @@
 {
-    "db49f71a-5416-4e8c-9011-5760185649868": {
+    "db49f71a-5416-4e8c-9011-576018564986": {
         "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#teams('db49f71a-5416-4e8c-9011-5760185649868')/channels",
         "@odata.count": 1,
         "value": [
@@ -12,7 +12,7 @@
             }
         ]
     },
-    "db49f71a-5416-4e8c-9011-576018567248": {
+    "db49f71a-5416-4e8c-9011-57601856724": {
         "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#teams('db49f71a-5416-4e8c-9011-576018567248')/channels",
         "@odata.count": 1,
         "value": [
