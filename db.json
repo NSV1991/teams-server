@@ -1,0 +1,53 @@
+{
+    "channels": {
+        "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#teams('db49f71a-5416-4e8c-9011-5760185649868')/channels",
+        "@odata.count": 1,
+        "value": [
+            {
+                "id": "19:acf09f634817411da81ad1ba770afb5d@thread.tacv2",
+                "displayName": "General",
+                "description": "Alpha Team",
+                "email": "",
+                "webUrl": "https://teams.microsoft.com/l/channel/19%3aacf09f634817411da81ad1ba770afb5d%40thread.tacv2/General?groupId=db49f71a-5416-4e8c-9011-576018567248&tenantId=d984cb70-eb0b-47bf-b16f-0f28c29dea94"
+            }
+        ]
+    },
+    "teams": {
+        "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#teams",
+        "@odata.count": 2,
+        "value": [
+            {
+                "id": "db49f71a-5416-4e8c-9011-5760185649868",
+                "displayName": "Alpha Team",
+                "description": "Alpha Team  description",
+                "internalId": null,
+                "classification": null,
+                "specialization": null,
+                "visibility": null,
+                "webUrl": null,
+                "isArchived": false,
+                "memberSettings": null,
+                "guestSettings": null,
+                "messagingSettings": null,
+                "funSettings": null,
+                "discoverySettings": null
+            },
+            {
+                "id": "db49f71a-5416-4e8c-9011-576018567248",
+                "displayName": "Team 1",
+                "description": "Team 1 description",
+                "internalId": null,
+                "classification": null,
+                "specialization": null,
+                "visibility": null,
+                "webUrl": null,
+                "isArchived": false,
+                "memberSettings": null,
+                "guestSettings": null,
+                "messagingSettings": null,
+                "funSettings": null,
+                "discoverySettings": null
+            }
+        ]
+    }
+}
