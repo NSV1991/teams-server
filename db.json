@@ -16,13 +16,6 @@
                 "description": "Alpha Team",
                 "email": "",
                 "webUrl": "https://teams.microsoft.com/l/channel/19%3aacf09f634817411da81ad1ba770afb5d%40thread.tacv2/General?groupId=db49f71a-5416-4e8c-9011-576018567248&tenantId=d984cb70-eb0b-47bf-b16f-0f28c29dea94"
-            },
-            {
-                "id": "21:acf09f634817411da81ad1ba770afb5e@thread.tacv4",
-                "displayName": "Beta channel",
-                "description": "Alpha Team",
-                "email": "",
-                "webUrl": "https://teams.microsoft.com/l/channel/19%3aacf09f634817411da81ad1ba770afb5d%40thread.tacv2/General?groupId=db49f71a-5416-4e8c-9011-576018567248&tenantId=d984cb70-eb0b-47bf-b16f-0f28c29dea94"
             }
         ]
     },
@@ -38,13 +31,6 @@
                 "webUrl": "https://teams.microsoft.com/l/channel/19%3a9c9199b7ef3849908f9d544c40721f1c%40thread.tacv2/General?groupId=8385a4d6-1db2-4b50-99dd-4a86c1e3c461&tenantId=d984cb70-eb0b-47bf-b16f-0f28c29dea94"
             },
             {
-                "id": "50:acf09f634817411da81ad1ba770afb5e@thread.tacv3",
-                "displayName": "Testing channel",
-                "description": "Alpha Team",
-                "email": "",
-                "webUrl": "https://teams.microsoft.com/l/channel/19%3aacf09f634817411da81ad1ba770afb5d%40thread.tacv2/General?groupId=db49f71a-5416-4e8c-9011-576018567248&tenantId=d984cb70-eb0b-47bf-b16f-0f28c29dea94"
-            },
-            {
                 "id": "51:acf09f634817411da81ad1ba770afb5e@thread.tacv4",
                 "displayName": "Beta channel",
                 "description": "Alpha Team",
@@ -57,13 +43,6 @@
         "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#teams('db49f71a-5416-4e8c-9011-576018567245')/channels",
         "@odata.count": 1,
         "value": [
-            {
-                "id": "39:9c9199b7ef3849908f9d544c40721f1c@thread.tacv2",
-                "displayName": "General Beta",
-                "description": "Test 1",
-                "email": "",
-                "webUrl": "https://teams.microsoft.com/l/channel/19%3a9c9199b7ef3849908f9d544c40721f1c%40thread.tacv2/General?groupId=8385a4d6-1db2-4b50-99dd-4a86c1e3c461&tenantId=d984cb70-eb0b-47bf-b16f-0f28c29dea94"
-            },
             {
                 "id": "30:acf09f634817411da81ad1ba770afb5e@thread.tacv3",
                 "displayName": "Testing Beta channel",
